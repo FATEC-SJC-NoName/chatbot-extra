@@ -16,3 +16,12 @@ pip install Flask
 pip install chatterbot
 
 pip install chatterbot-corpus 
+
+
+### Execute a aplicação:
+
+python3 app.py
+
+ou
+
+python app.py
