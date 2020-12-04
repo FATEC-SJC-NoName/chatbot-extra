@@ -5,7 +5,7 @@ Chatbot com machine learning
 
 ### Execute os seguintes comandos:
 
-cd pastadoproejto
+cd pastadoprojeto
 
 virtualenv env
 
