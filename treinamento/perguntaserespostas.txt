@@ -1,0 +1,21 @@
+Bom Dia como você está?
+Eu estou bem, e você?
+Eu também estou.
+Que bom.
+Sim.
+Olá
+Oi
+Como vai você?
+Eu estou bem.
+Que bom
+Sim.
+Posso ajudá-lo com alguma coisa?
+Sim, eu tenho uma pergunta.
+Qual é a sua pergunta?
+Como posso emitir um boleto?
+Certo, qual seu cpf ? irei verificar no sistema
+01866329243
+Segue o código do seu boleto: 07790.00116 44000.000511 01930.891526 1 84760000002004
+Posso ajudá-lo com alguma coisa?
+Apenas isso
+Obrigado, e tenha um ótimo dia
