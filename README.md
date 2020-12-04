@@ -2,6 +2,10 @@
 
 Chatbot com machine learning
 
+### Instale o sqlite:
+
+https://www.sqlite.org/download.html
+
 
 ### Execute os seguintes comandos:
 
